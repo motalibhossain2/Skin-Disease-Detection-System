@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Skin-Disease-Detection-System
-=======
 
 <center>  
 <h1>Comparative Analysis of Machine Learning Models for Robust Skin Lesion Classification</h1>  
@@ -35,4 +32,3 @@ To develop and compare different machine learning models for multi-class skin le
 - [x] Sensitivity analysis on model robustness  
 - [x] Hyperparameter tuning support  
 - [x] Real-time image classification web app  
->>>>>>> master
